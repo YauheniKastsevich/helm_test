@@ -3,7 +3,17 @@ entries:
   first-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-07T18:23:07.081283433+03:00"
+    created: "2024-05-07T19:05:52.297217612+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 553cd2171d740614bf05df44615cc24ebdf25684ed20b929e33570d98c6e19a2
+    name: first-app
+    type: application
+    urls:
+    - https://yauhenikastsevich.github.io/helm_test/helm-releases/first-app-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-07T19:05:52.296804108+03:00"
     description: A Helm chart for Kubernetes
     digest: cdf077bad052c49b433006d8c0e54cb7e2b26a6cb0bd26c777e9ed20f2b24c0e
     name: first-app
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://yauhenikastsevich.github.io/helm_test/helm-releases/first-app-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-07T18:23:07.080355234+03:00"
+generated: "2024-05-07T19:05:52.296183801+03:00"
